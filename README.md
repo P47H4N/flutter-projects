@@ -1,2 +1,0 @@
-# flutter-projects
-Practice Projects
