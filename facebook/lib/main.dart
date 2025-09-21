@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
       home: HomePage(),
       routes: {
         '/home': (context) => HomePage(),
+        // Will be added Soon
         // '/friends': (context) => FriendsPage(),
         // '/messages': (context) => MessagesPage(),
         // '/videos': (context) => VideosPage(),
